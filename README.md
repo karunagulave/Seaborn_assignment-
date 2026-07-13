@@ -84,7 +84,7 @@ Seaborn-Practice/
 🚀 Google Colab Notebook
 
 You can view and run all the examples directly in Google Colab:
-https://colab.research.google.com/drive/1WolhCr89poA6sxvUzloLuURlD17tWI8o#scrollTo=eWJnit_MMX2m
+https://colab.research.google.com/drive/154b6I-ZW50cKTTTKeyIY5YKxBfV0q9hC
 
 ## 📊 Sample Datasets Used
 
