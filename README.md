@@ -1,6 +1,4 @@
 # Seaborn_assignment-
-practice-of-seaborn-library
-📊 Seaborn Library Practice
 Welcome to my Seaborn Practice Repository! 🚀
 
 This repository contains my journey of learning the Seaborn library in Python. I have practiced different types of data visualizations, customized charts, and explored real-world datasets using Seaborn.
@@ -14,6 +12,7 @@ Seaborn is widely used in:
 📊 Data Visualization
 🤖 Machine Learning
 📚 Exploratory Data Analysis (EDA)
+
 🎯 What I Learned
 Installing and importing Seaborn
 Working with built-in datasets
@@ -23,6 +22,7 @@ Using different color palettes
 Adding titles and labels
 Styling graphs
 Combining Seaborn with Pandas and Matplotlib
+
 📚 Topics Covered
 ✅ Line Plot
 ✅ Bar Plot
@@ -38,6 +38,7 @@ Combining Seaborn with Pandas and Matplotlib
 ✅ Joint Plot
 ✅ Relational Plot
 ✅ Categorical Plot
+
 🛠 Technologies Used
 Python
 Pandas
@@ -45,7 +46,9 @@ NumPy
 Seaborn
 Matplotlib
 Google colab notebook/ VS Code
+
 📂 Repository Structure
+
 Seaborn-Practice/
 │
 ├── LinePlot.ipynb
@@ -58,10 +61,11 @@ Seaborn-Practice/
 ├── BuiltInDatasets.ipynb
 ├── images/
 ├── README.md
+
 ▶️ How to Run
 🚀 Google Colab Notebook
 
-You can view and run all the examples directly in Google Colab: https://colab.research.google.com/drive/1WolhCr89poA6sxvUzloLuURlD17tWI8o#scrollTo=eWJnit_MMX2m
+You can view and run all the examples directly in Google Colab: 
 
 📊 Sample Datasets Used
 Tips
@@ -71,6 +75,7 @@ Titanic
 Flights
 Car Crashes
 Diamonds
+
 🚀 Skills Gained
 Data Visualization
 Exploratory Data Analysis (EDA)
@@ -78,16 +83,13 @@ Chart Customization
 Statistical Visualization
 Python Programming
 Data Interpretation
+
 🎯 Future Goals
 Create advanced Seaborn projects
 Perform complete Exploratory Data Analysis (EDA)
 Build data analysis projects using real-world datasets
 Learn Plotly and Power BI
 Improve data storytelling skills
-👨‍💻 About Me
-Hi, I'm Nikhil Shinde, a BCA graduate passionate about Python, Data Analysis, and Data Visualization.
-
-I am continuously improving my skills by building projects and sharing my learning journey on GitHub.
 
 ⭐ If you found this repository helpful, consider giving it a Star!
 Happy Coding! 🚀
