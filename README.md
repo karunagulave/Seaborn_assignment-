@@ -38,9 +38,7 @@ The notebook covers basic to intermediate visualization techniques suitable for 
 * Violin Plot
 * Pair Plot
 * FacetGrid
-* Customized Scatter Plot
 * Plot Customization
-
   * Colors
   * Titles
   * Axis Labels
