@@ -1,131 +1,116 @@
 # Seaborn_assignment-
 welcome to my **Seaborn assignment Repository**! 🚀
+# 📊 Healthcare Expenditure Data Visualization using Seaborn
 
-This repository contains my journey of learning the **Seaborn** library in Python. I have practiced different types of data visualizations, customized charts, and explored real-world datasets using Seaborn.
+A beginner-friendly Data Science project that demonstrates data visualization techniques using **Seaborn**, **Matplotlib**, and **Pandas** in Python.
 
----
-
-## 📌 About Seaborn
-
-Seaborn is a powerful Python data visualization library built on top of **Matplotlib**. It helps create attractive, informative, and statistical graphics with simple and readable code.
-
-Seaborn is widely used in:
-
-* 📈 Data Analysis
-* 📊 Data Visualization
-* 🤖 Machine Learning
-* 📚 Exploratory Data Analysis (EDA)
+This project uses Seaborn's built-in **`healthexp`** dataset to explore healthcare expenditure and life expectancy across different countries through a variety of visualizations.
 
 ---
 
-## 🎯 What I Learned
+## 📖 About the Project
 
-* Installing and importing Seaborn
-* Working with built-in datasets
-* Understanding different chart types
-* Customizing chart colors
-* Using different color palettes
-* Adding titles and labels
-* Styling graphs
-* Combining Seaborn with Pandas and Matplotlib
+The objective of this project is to practice **Exploratory Data Analysis (EDA)** and learn how to create different types of charts using Seaborn.
+
+The notebook covers basic to intermediate visualization techniques suitable for beginners in Data Science.
 
 ---
 
-## 📚 Topics Covered
+## 📂 Dataset
 
-* ✅ Line Plot
-* ✅ Bar Plot
-* ✅ Scatter Plot
-* ✅ Histogram
-* ✅ Box Plot
-* ✅ Violin Plot
-* ✅ Count Plot
-* ✅ Heatmap
-* ✅ Pair Plot
-* ✅ Distribution Plot
-* ✅ KDE Plot
-* ✅ Joint Plot
-* ✅ Relational Plot
-* ✅ Categorical Plot
+**Dataset Used:** `healthexp`
+
+### Dataset Columns
+
+* **Year** – Year of observation
+* **Country** – Country name
+* **Spending_USD** – Healthcare expenditure per person (USD)
+* **Life_Expectancy** – Average life expectancy (years)
 
 ---
 
-## 🛠 Technologies Used
+## 📊 Visualizations Included
+
+* Scatter Plot
+* Line Plot
+* Bar Plot
+* Histogram
+* Box Plot
+* Violin Plot
+* Pair Plot
+* FacetGrid
+* Customized Scatter Plot
+* Plot Customization
+
+  * Colors
+  * Titles
+  * Axis Labels
+  * Legends
+  * Figure Size
+  * Color Palettes
+
+---
+
+## 🛠️ Technologies Used
 
 * Python
-* Pandas
-* NumPy
 * Seaborn
 * Matplotlib
-* Google colab notebook/ VS Code
+* Pandas
+* Google Colab
 
 ---
 
-## 📂 Repository Structure
+## *📁 Project Structure*
 
 ```text
-Seaborn-Practice/
+Healthcare-Seaborn-Visualization/
 │
-├── LinePlot.ipynb
-├── ScatterPlot.ipynb
-├── BarPlot.ipynb
-├── Histogram.ipynb
-├── BoxPlot.ipynb
-├── Heatmap.ipynb
-├── PairPlot.ipynb
-├── BuiltInDatasets.ipynb
-├── images/
-├── README.md
+├── healthexp_seaborn.ipynb
+└── README.md
 ```
 
 ---
 
-## ▶️ How to Run
-🚀 Google Colab Notebook
+## 🚀 How to Use
 
-You can view and run all the examples directly in Google Colab:
-https://colab.research.google.com/drive/154b6I-ZW50cKTTTKeyIY5YKxBfV0q9hC
-
-## 📊 Sample Datasets Used
-
-* Tips
-* Iris
-* Penguins
-* Titanic
-* Flights
-* Car Crashes
-* Diamonds
+1. Download or clone this repository.
+2. Open **healthexp_seaborn.ipynb** in **Google Colab**.
+3. Run the notebook cells sequentially.
+4. Explore the different Seaborn visualizations.
 
 ---
 
-## 🚀 Skills Gained
+## 🎯 Learning Outcomes
 
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* Chart Customization
-* Statistical Visualization
-* Python Programming
-* Data Interpretation
+By completing this project, I learned:
 
----
-
-## 🎯 Future Goals
-
-* Create advanced Seaborn projects
-* Perform complete Exploratory Data Analysis (EDA)
-* Build data analysis projects using real-world datasets
-* Learn Plotly and Power BI
-* Improve data storytelling skills
+* Loading datasets with Seaborn
+* Performing Exploratory Data Analysis (EDA)
+* Creating different statistical visualizations
+* Customizing plots using Seaborn and Matplotlib
+* Understanding relationships between healthcare spending and life expectancy
 
 ---
 
-## 👨‍💻 About Me
+## 📈 Future Improvements
 
-Hi, I'm karuna gulave.
-I am continuously improving my skills by building projects and sharing my learning journey on GitHub.
+* Add Heatmap visualizations
+* Explore additional healthcare datasets
+* Perform statistical analysis
+* Build a complete EDA project using a real-world dataset
 
 ---
 
-### ⭐ If you found this repository helpful, consider giving it a Star!
+## 👩‍💻 Author
 
-Happy Coding! 🚀
+**karuna gulave**
+
+* Data Science Learner
+* Python Enthusiast
+* Passionate about Data Visualization
+
+---
+
+
+
