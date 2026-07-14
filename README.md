@@ -63,9 +63,9 @@ The notebook covers basic to intermediate visualization techniques suitable for 
 ## *📁 Project Structure*
 
 ```text
-Healthcare-Seaborn-Visualization/
+Seaborn_assignment-Visualization/
 │
-├── healthexp_seaborn.ipynb
+├── seaborn_assignment.ipynb
 └── README.md
 ```
 
@@ -74,7 +74,7 @@ Healthcare-Seaborn-Visualization/
 ## 🚀 How to Use
 
 1. Download or clone this repository.
-2. Open **healthexp_seaborn.ipynb** in **Google Colab**.
+2. Open **seaborn_assignment.ipynb** in **Google Colab**.
 3. Run the notebook cells sequentially.
 4. Explore the different Seaborn visualizations.
 
