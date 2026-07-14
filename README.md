@@ -1,6 +1,5 @@
 # Seaborn_assignment-
 welcome to my **Seaborn assignment Repository**! 🚀
-# 📊 Healthcare Expenditure Data Visualization using Seaborn
 
 A beginner-friendly Data Science project that demonstrates data visualization techniques using **Seaborn**, **Matplotlib**, and **Pandas** in Python.
 
